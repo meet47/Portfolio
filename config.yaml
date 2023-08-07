@@ -73,7 +73,7 @@ params:
     - name: "github"
       url: "https://github.com/meet47"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1uJLXA7cvmQEPesNyZS78lU0mePu-uPk2/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1-4JHi14GVovAM0vaAzGPMZ_hi_LO8pwv/view?usp=drive_link"
 
   # text search
   fuseOpts:
