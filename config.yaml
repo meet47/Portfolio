@@ -1,0 +1,99 @@
+baseURL: "https://meetbardoliya.org"
+languageCode: en-us
+title: Meet Bardoliya
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Meet Bardoliya"
+    subtitle: "Hello 👋, I’m Meet, highly motivated Data Scientist with expertise in **Machine Learning**, **Deep Learning** & **Statistical Modelling**. My interest includes **Computer Vision** and **Natural Language Processing**. I consider myself as a problem solver, who always inquisitive about to help organization and people through my **Data Science & Analytics** skills. I am always open to any Data-related opportunity, where I can utilize my expertise of data driven decision to help the world become a better place. I would love to play basketball and read books in my spare time."
+    imageUrl: "home/Meet.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:meetbardoliya28@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/meet-bardoliya/"
+    - name: "github"
+      url: "https://github.com/meet47"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1uJLXA7cvmQEPesNyZS78lU0mePu-uPk2/view?usp=sharing"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
