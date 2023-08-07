@@ -25,14 +25,6 @@ menu:
       name: Search
       url: /search
       weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
 
 params:
   # theme
@@ -73,7 +65,7 @@ params:
     - name: "github"
       url: "https://github.com/meet47"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1-4JHi14GVovAM0vaAzGPMZ_hi_LO8pwv/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1wRTor7murFjZb1ODxuGk6_Q52y9JOpOc/view?usp=drive_link"
 
   # text search
   fuseOpts:
