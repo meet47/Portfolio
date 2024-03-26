@@ -1,5 +1,5 @@
 ---
-title: "Data Science Intern"
+title: "Data Scientist - AI/ML"
 description: "ArcelorMittal Nippon Steel India Limited (India)"
 dateString: June 2022 - Dec 2022
 draft: false
@@ -24,7 +24,7 @@ tags:
     "Dashboarding",
   ]
 showToc: false
-weight: 301
+weight: 303
 ---
 
 ### Description

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NLP on Meet Bardoliya</title>
+    <link>http://localhost:1313/tags/nlp/</link>
+    <description>Recent content in NLP on Meet Bardoliya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Engineer</title>
+      <link>http://localhost:1313/experience/pratsware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experience/pratsware/</guid>
+      <description>Pratsware Technologies Pvt. Ltd. (India)</description>
+    </item>
+    
+  </channel>
+</rss>

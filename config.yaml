@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "Meet Bardoliya"
     subtitle: "Hello 👋, I’m Meet, highly motivated Data Scientist with expertise in **Machine Learning**, **Deep Learning** & **Statistical Modelling**. My interest includes **Computer Vision** and **Natural Language Processing**. I consider myself as a problem solver, who always inquisitive about to help organization and people through my **Data Science & Analytics** skills. I am always open to any Data-related opportunity, where I can utilize my expertise of data driven decision to help the world become a better place. I would love to play basketball and read books in my spare time."
-    imageUrl: "home/Meet.jpg"
+    imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -65,7 +65,7 @@ params:
     - name: "github"
       url: "https://github.com/meet47"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1wRTor7murFjZb1ODxuGk6_Q52y9JOpOc/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1_u-taMDLtakcAmM3E0vS-rGa92Em1DRn/"
 
   # text search
   fuseOpts:
