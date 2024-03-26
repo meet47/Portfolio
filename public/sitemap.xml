@@ -12,6 +12,10 @@
   </url><url>
     <loc>http://localhost:1313/projects/face-landmarks-detection/</loc>
   </url><url>
+    <loc>http://localhost:1313/experience/seneca/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experience/ats/</loc>
+  </url><url>
     <loc>http://localhost:1313/experience/amns/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/pratsware/</loc>
@@ -86,6 +90,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/nltk/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/oracle-jde/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/powerbi/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -103,6 +109,10 @@
     <loc>http://localhost:1313/tags/responsive-ui/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/rest-api/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/salesforce/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sap/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/scikit-learn/</loc>
   </url><url>
