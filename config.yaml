@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Meet Bardoliya"
-    subtitle: "Hello 👋, I’m Meet, highly motivated Data Scientist with expertise in **Machine Learning**, **Deep Learning** & **Statistical Modelling**. My interest includes **Computer Vision** and **Natural Language Processing**. I consider myself as a problem solver, who always inquisitive about to help organization and people through my **Data Science & Analytics** skills. I am always open to any Data-related opportunity, where I can utilize my expertise of data driven decision to help the world become a better place. I would love to play basketball and read books in my spare time."
+    subtitle: "Hello 👋, I’m Meet, highly motivated Data Scientist with expertise in **Machine Learning**, **Deep Learning** & **Statistical Modelling**. My interest includes **Computer Vision**, **Natural Language Processing** and **Generative AI**. I consider myself as a problem solver, who always inquisitive about to help organization and people through my **Data Science & Analytics** skills. I am always open to any Data-related opportunity, where I can utilize my expertise of data driven decision to help the world become a better place. I would love to play basketball and read books in my spare time."
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220

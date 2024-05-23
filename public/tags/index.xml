@@ -34,6 +34,24 @@
     </item>
     
     <item>
+      <title>AWS Bedrock</title>
+      <link>http://localhost:1313/tags/aws-bedrock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aws-bedrock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure ML Studio</title>
+      <link>http://localhost:1313/tags/azure-ml-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/azure-ml-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Behaviour Change</title>
       <link>http://localhost:1313/tags/behaviour-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +151,33 @@
     </item>
     
     <item>
+      <title>Foundational LLMs</title>
+      <link>http://localhost:1313/tags/foundational-llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/foundational-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Platform</title>
+      <link>http://localhost:1313/tags/google-cloud-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Vertex AI</title>
+      <link>http://localhost:1313/tags/google-vertex-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/google-vertex-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HTML</title>
       <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,6 +223,15 @@
     </item>
     
     <item>
+      <title>LLPOps</title>
+      <link>http://localhost:1313/tags/llpops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/llpops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LSTM</title>
       <link>http://localhost:1313/tags/lstm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -214,6 +268,15 @@
     </item>
     
     <item>
+      <title>MLOps</title>
+      <link>http://localhost:1313/tags/mlops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mlops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MongoDB</title>
       <link>http://localhost:1313/tags/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -246,33 +309,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/neaural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Networks</title>
-      <link>http://localhost:1313/tags/neural-networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLTK</title>
-      <link>http://localhost:1313/tags/nltk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nltk/</guid>
       <description></description>
     </item>
     
@@ -448,7 +484,7 @@
     </item>
     
     <item>
-      <title>VueJS</title>
+      <title>VueJs</title>
       <link>http://localhost:1313/tags/vuejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

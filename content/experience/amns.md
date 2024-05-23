@@ -1,7 +1,7 @@
 ---
-title: "Data Scientist - AI/ML"
+title: "Data Scientist"
 description: "ArcelorMittal Nippon Steel India Limited (India)"
-dateString: June 2022 - Dec 2022
+dateString: Nov 2021 - Dec 2022
 draft: false
 tags:
   [
@@ -22,6 +22,8 @@ tags:
     "MongoDB",
     "Reporting",
     "Dashboarding",
+    "Google Cloud Platform",
+    "Google Vertex AI"
   ]
 showToc: false
 weight: 303
@@ -29,12 +31,9 @@ weight: 303
 
 ### Description
 
-- Gather and consolidate data from multiple sources, ensuring accuracy and completeness. Performed data cleaning, transformation and normalization to improve quality of data.
+- Collaborated with data engineers and software engineers to solve business use cases using computer vision techniques, Designed and Implemented Vision Transformer models using deep learning frameworks such as Keras, PyTorch and Google Vertex AI, optimized model performance using techniques such as transfer learning and fine-tuning.
+- Designed robust MLOps infrastructure using MLflow to build efficient ML pipelines, resulting into reduction in manual training time. 
 - Created clear and concise reports, dashboards and visualizations using Tableau and BI to effectively communicate findings to stakeholders. Developed automated reporting system to streamline data analysis and reporting process.
-- Worked on a computer vision project named “Surface Quality Detection" to develop a system for object detection and recognition using convolutional neural networks (CNNs) and LSTM.
-- Collected and labeled a large dataset of images, and preprocessed the data using techniques such as resizing, normalization, and data augmentation.
-- Implemented and trained CNN models using deep learning frameworks such as TensorFlow, Keras and PyTorch, optimized model performance using techniques such as transfer learning and fine-tuning.
-- Conducted experiments to compare the performance of different CNN architectures and hyperparameters, and evaluated model performance using metrics such as precision, recall, and F1-score.
-- Created data pipelines among various system using SAP BODS ETL Tool.
+- Worked on statistical analysis, leveraging advanced techniques such as hypothesis testing, regression modeling, and predictive analytics to derive actionable insights and drive data-informed decision-making processes for the product.
 
-<!-- ![](/experience/16bit/img1.jpeg#center) -->
+![](/experience/amns.png#center)

@@ -1,7 +1,7 @@
 ---
 title: "Frontend Engineer"
 description: "Infinitybrains (India)"
-dateString: Jan 2021 - Dec 2021
+dateString: April 2021 - Oct 2021
 draft: false
 tags:
   [
@@ -17,7 +17,7 @@ tags:
     "REST API",
   ]
 showToc: false
-weight: 305
+weight: 304
 ---
 
 ### Description
